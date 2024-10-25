@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #0B2E34;
+    color: #fff;
+    text-align: center;
+}
+.footerContainer h4 {
+  
+    text-decoration:underline;
+  
+   
+}
+.footerContainer p{
+
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+#footerSec2{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+}
